@@ -1,0 +1,68 @@
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../asserts/main/fontsheebo-v22-latin-300.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* heebo-regular - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../asserts/main/fontsheebo-v22-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* heebo-500 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../asserts/main/fontsheebo-v22-latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* heebo-700 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../asserts/main/fontsheebo-v22-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* heebo-800 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../asserts/main/fontsheebo-v22-latin-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap');
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+  }
+
+  .footer{
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+  }
+  .footer h4{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-weight: 600;
+  }
+  .icon{
+    width: 36px;
+  }
+  .icont{
+    width: 65px;
+  }
+  .iconi{
+    width: 43px;
+  }
+  
